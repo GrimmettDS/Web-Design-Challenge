@@ -1,6 +1,7 @@
 # Web-Design-Challenge
 Creating a Web Visualization Dashboard
 
+My [page](https://grimmettds.github.io/Web-Design-Challenge/)
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
